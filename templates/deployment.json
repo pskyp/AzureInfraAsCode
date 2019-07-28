@@ -1,0 +1,11 @@
+{
+    "Deployed_Region":{
+        "uksouth":"True",
+        "ukwest":"False",
+        "centralus":"True"
+    },
+    "ResourceGroup":"DemoApp",
+    "Subscription":"Test",
+    "AZURE_SUBSCRIPTION_ID":"2a5752bf-ed9d-456e-830e-e398e97d9c7b"
+}    
+    
